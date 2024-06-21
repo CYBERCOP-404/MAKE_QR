@@ -19,7 +19,7 @@ import qrcode as qr
 from random2 import randint
 os.system('clear')
 print(banner)
-USER = input('  [+] ENTER YOUR TEXT HERE : ')
+USER = input('    [+] ENTER YOUR TEXT HERE : ')
 if USER=='1':
     os.chdir('..')
     os.system('rm -rf CYBER-404')
