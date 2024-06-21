@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=QR%20CODE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=QR%20CODE%20%20%20GENARATOR%20TOOLS%20BY%20CYBER-COP&descAlignY=51&descAlign=62" width="100%"/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=QR%20CODE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=QR%20CODE%20%20%20GENARATOR%20TOOLS%20%20&descAlignY=51&descAlign=62" width="100%"/>
 </p>
 
 <p align="left">
