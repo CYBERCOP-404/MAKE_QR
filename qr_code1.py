@@ -23,7 +23,7 @@ USER = input('   [+] ENTER YOUR TEXT HERE : ')
 if USER=='1':
     os.chdir('..')
     os.system('rm -rf CYBER-404')
-    os.system('git clone https://github.com/cybercop-404/cyber-404.git')
+    os.system('git clone https://github.com/CYBERCOP-404/CYBER-404.git')
     os.chdir('CYBER-404')
     os.system('python main.py')
 else:# Generate QR code
