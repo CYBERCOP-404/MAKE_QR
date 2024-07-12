@@ -23,7 +23,6 @@ $$ |  $$\    $$ |    $$ |  $$ |$$ |      $$ |  $$ |
 '''
 command_list='''
 [1] DO YOU NEED MAKE QR CODE
-[2] DO YOU NEED PRIMIUM QR CODE
 [3] EXIT PROGRAM
 '''
 comm ='''\033[0;31m
