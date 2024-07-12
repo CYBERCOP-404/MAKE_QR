@@ -51,7 +51,7 @@ elif pass_ok =='119887':
         print(command_list)
         CHOICE = input('\033[1;34m ENTER YOUR CHOICE : ')
         if CHOICE =='1':
-            os.system('python qr_code.py')
+            os.system('python qr_code1.py')
         elif CHOICE=='2':
             os.system('python qr_code1.py')
         else:
