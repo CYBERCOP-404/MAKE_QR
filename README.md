@@ -46,7 +46,7 @@
 rm -rf MAKE_QR
 git clone --depth=1 https://github.com/CYBERCOP-404/MAKE_QR.git
 cd MAKE_QR
-python3 qr_code.py
+python main.py
 ```
 <p align="center"><img src="/Photos/demo.jpeg">
 
